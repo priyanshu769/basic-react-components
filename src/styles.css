@@ -1,0 +1,81 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border-top: 3px solid #252a34;
+  border-bottom: 3px solid #252a34;
+  margin: 1rem;
+}
+.darkModeOn {
+  background-color: black;
+  color: white;
+}
+.darkModeOff {
+  background-color: white;
+  color: black;
+}
+.tweet {
+  /* border: 2px solid black; */
+  /* padding: 0.5rem; */
+}
+.tweet textarea {
+  width: 80%;
+  margin: auto;
+}
+.passwordMatch {
+  /* border: 2px solid black; */
+  /* padding: 0.5rem; */
+}
+input,
+select,
+textarea {
+  margin: 0.5rem;
+}
+.aphanumeric {
+  /* border: 2px solid black; */
+  /* padding: 0.5rem; */
+}
+.productCard {
+  border: 1px solid black;
+  padding: 0.5rem;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  /* display: inline; */
+}
+.productCard img {
+  width: 200px;
+}
+.toastComp {
+  border: 1px solid black;
+  width: fit-content;
+  margin: auto;
+  padding: 0.5rem;
+  padding-bottom: 0;
+}
+.showBtn {
+  margin: 0.5rem;
+}
+.tasks {
+  list-style-type: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+.productCard {
+  border: 2px solid black;
+  width: 100px;
+  display: inline-block;
+  padding: 3px;
+  margin: 1px;
+}
+.cart {
+  cursor: pointer;
+}
+.cssArea {
+  border: 1px solid black;
+  margin: auto;
+  width: fit-content;
+  padding: 1rem;
+  text-align: left;
+}
